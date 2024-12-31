@@ -30,7 +30,7 @@ pysqldump es un script que filtra el numero de intents en un dump sql y te las s
 
 ```bash
 
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/JaquermanD/pysqldump.git
 ```
 
 # Navega al directorio
